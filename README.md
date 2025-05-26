@@ -56,3 +56,5 @@ To launch the simulator:
 # Else, use path to Isaac sim installation
 {ISSACSIM_PATH}/python.sh ~/colcon_ws/src/pipe_isaac/pipe_issac_sim/scripts/launch_sim.py 
 ```
+
+NOTE: Add instructions on textures
